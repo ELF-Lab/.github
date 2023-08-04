@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hello!
+
+This is the github page for the Experimental Linguistics and Fieldwork Lab at the University of British Columbia.
 
 <!--
 
